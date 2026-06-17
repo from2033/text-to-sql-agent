@@ -1,0 +1,18 @@
+# Node
+node_modules/
+dist/
+.vite/
+
+# Python
+backend/.venv/
+backend/__pycache__/
+backend/**/__pycache__/
+backend/**/*.pyc
+backend/data/
+
+# Env
+.env
+backend/.env
+
+# OS
+.DS_Store
